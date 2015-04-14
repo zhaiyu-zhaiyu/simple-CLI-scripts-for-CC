@@ -12,7 +12,8 @@ Good luck if you did not known what will happened before you use them. (^_^)
 
 ## List of the scripts
 
-* `atommass.py`.  The data come from NIST.  And I think the data are newest before 2015-4-1.
-* Coming soon.
+- `bashrc`.  It should be `.bashrc`, but I wonder if it canbe shown properly on github.  Of couse I delete something in it for it's kind of privacy.
+- `atommass.py`.  The data come from NIST.  And I think the data are newest before 2015-4-1.
+- Coming soon.
 
 
